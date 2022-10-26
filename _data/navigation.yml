@@ -12,3 +12,6 @@ main:
   
   - title: "Students"
     url: "/#-students"
+
+  - title: "Competitions"
+    url: "/#-competitions"
