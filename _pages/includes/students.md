@@ -4,7 +4,7 @@
 
 2022
 
-- Xiao-fei Li 李晓菲，Tian-ci Liu 刘天赐，Hao-kun Yu 于浩坤，Yi Zhong 钟椅，Long-kang Lin 林龙康，Jia-ming Zhang 张家铭
+- Xiao-fei Li 李晓菲，Tian-ci Liu 刘天赐，Hao-kun Yu 于浩坤，Yi Zhong 钟椅，Long-kang Lin 林龙康，Jia-ming Zhang 张家铭 (Co-supervised with Prof. Wei Fang)
 
 2021
 
