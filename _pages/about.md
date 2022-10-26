@@ -28,9 +28,84 @@ His research interest includes Multi-modal Data Mining and Natural Language Proc
 - *2022.08*: &nbsp;🎉🎉 One paper of Heng-yang Lu has been accepted by COLING-22, RANK: CCF-B. 
 - *2022.08*: &nbsp;🎉🎉 One paper of Wei Nie has been accepted by PRICAI-22, RANK: CCF-C. 
 
-<div style='display: none'>
-# 📝 Publications 
 
+# 📝 Publications 
+## Conferences
+12. Where to Attack: A Dynamic Locator Model for Backdoor Attack in Text Classifications [Accepted]
+
+Lu H, Fan C, Yang J, Hu C, Fang W, Wu X 
+
+In Proceedings of  COLING-22. Gyeongju, Republic of Korea, 2022. (CCF-B)
+
+11. Pay Attention to the "Tails": A Novel Aspect-Fusion Model for Long-Tailed Aspect Category Detection [Accepted]
+
+Nie W, Lu H, Fang W
+
+In Proceedings of  PRICAI-22. Shanghai, China, 2022. (CCF-C)
+
+10. Win-win Cooperation: A Novel Dual-Modal Dual-Label Algorithm for Membrane Proteins Function Pre-screen[PDF]
+
+Zhang Y, Zhang Z, Cheng H, Lu H, Zhang L, Wang C, Xie J 
+
+In Proceedings of  BIBM-19. San Diego, USA, 2019. (EI, CPCI-S, CCF-B)
+
+9. MALP: A More Effective Meta-Paths Based Link Prediction Method in Partially Aligned Heterogeneous Social Networks[PDF]
+
+Zhu K, Cao M, Lu H
+
+In Proceedings of ICATI-19. Portland, USA, 2019. (EI, CPCI-S, CCF-C)
+
+8. GADGET: Using Gated GRU for Biomedical Event Trigger Detection[PDF]
+
+Zeng C, Zhang Y, Lu H, Wang C 
+
+In Proceedings of  IJCNN-19. Budapest, Hungary, 2019. (EI, CPCI-S, CCF-C)
+
+7. Exploiting Global Semantic Similarity Biterms for Short-text Topic Discovery[PDF]
+
+Lu H, Ge G, Li Y, Wang C, Xie J
+
+In Proceedings of  ICTAI-18. Volos. Greece, 2018: 975-982. (EI, CPCI-S, CCF-C)
+
+6. Online Single Homogeneous Source Transfer Learning Based on AdaBoost[PDF]
+
+Du Y, Chen Q, Lu H, Wang C
+
+In Proceedings of  ICTAI-18. Volos, Greece, 2018: 344-349. (EI, CPCI-S, CCF-C)
+
+5. Constructing Pseudo Documents with Semantic Similarity for Short Text Topic Discovery[PDF]
+
+Lu H, Li Y, Tang C, Wang C, Xie J
+
+In Proceedings of ICONIP-18. Siem Reap, Cambodia, 2018: 437-449. (EI, CPCI-S, CCF-C)
+
+4. Topics may Evolve: Using Complaint Data for Analysis [PDF]
+
+Xie L, Wang L, Lu H, Li N, Wang C
+
+In Proceedings of ICTAI-17. Boston, USA, 2017: 1296-1303. (EI, CPCI-S, CCF-C)
+
+3. Don't Forget the Quantifiable Relationship between Words: Using Recurrent Neural Network for Short Text Topic Discovery [PDF]
+
+Lu H, Xie L, Kang N, Wang C and Xie J
+
+In Proceedings of AAAI-17. San Francisco, USA, 2017:1192-1198. (EI, CPCI-S, CCF-A)
+
+2. Biterm Pseudo Document Topic Model for Short Text [PDF]
+
+Jiang L, Lu H, Xu M and Wang C
+
+In Proceedings of ICTAI-16. San Jose, USA, 2016: 865-872. (EI, CPCI-S, CCF-C)
+
+1. Never Ignore The Significance Of Different Anomalies: A Cost-sensitive Algorithm Based On Loss Function For Anomaly Detection [PDF]
+
+Lu H, Chen F, Xu M, Wang C and Xie J
+
+In Proceedings of ICTAI-15. Vietri Sul Mare, Italy, 2015: 1099-1105. (EI, CPCI-S, CCF-C)
+
+## Journals
+
+<div style='display: none'>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -43,7 +118,7 @@ His research interest includes Multi-modal Data Mining and Natural Language Proc
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
