@@ -4,7 +4,8 @@
 
 ### 2022
 
-- Xiao-fei Li 李晓菲，Tian-ci Liu 刘天赐，Hao-kun Yu 于浩坤，Yi Zhong 钟椅，Long-kang Lin 林龙康，Jia-ming Zhang 张家铭 (Co-supervised with Prof. Wei Fang)
+- Xiao-fei Li 李晓菲，Tian-ci Liu 刘天赐，Hao-kun Yu 于浩坤，Yi Zhong 钟椅，Long-kang Lin 林龙康，Jia-ming Zhang 张家铭
+  (Co-supervised with Prof. Wei Fang)
 
 ### 2021
 
@@ -12,7 +13,8 @@
 
 ### 2020
 
-- Shun Yang 杨舜 (Co-supervised with Prof. Xiaojun Wu)， Wei Nie 聂玮 (Co-supervised with Prof. Wei Fang)，Yue Jia 贾玥(Co-supervised with Prof. Wei Fang)
+- Shun Yang 杨舜 (Co-supervised with Prof. Xiaojun Wu)
+- Wei Nie 聂玮，Yue Jia 贾玥 (Co-supervised with Prof. Wei Fang)
 
 ## Undergraduate
 
