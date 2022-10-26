@@ -29,101 +29,101 @@ His research interest includes Multi-modal Data Mining and Natural Language Proc
 
 # 📝 Publications 
 ## Conferences
-- Where to Attack: A Dynamic Locator Model for Backdoor Attack in Text Classifications [Accepted].
+- Where to Attack: A Dynamic Locator Model for Backdoor Attack in Text Classifications <a href="" target="_blank" title="[]">[]</a>.
 Lu H, Fan C, Yang J, Hu C, Fang W, Wu X.
 In Proceedings of  COLING-22. Gyeongju, Republic of Korea, 2022. (CCF-B)
 
-- Pay Attention to the "Tails": A Novel Aspect-Fusion Model for Long-Tailed Aspect Category Detection [Accepted].
+- Pay Attention to the "Tails": A Novel Aspect-Fusion Model for Long-Tailed Aspect Category Detection <a href="" target="_blank" title="[]">[]</a>.
 Nie W, Lu H, Fang W
 In Proceedings of  PRICAI-22. Shanghai, China, 2022. (CCF-C)
 
-- Win-win Cooperation: A Novel Dual-Modal Dual-Label Algorithm for Membrane Proteins Function Pre-screen [PDF].
+- Win-win Cooperation: A Novel Dual-Modal Dual-Label Algorithm for Membrane Proteins Function Pre-screen <a href="" target="_blank" title="[PDF]">[PDF]</a>.
 Zhang Y, Zhang Z, Cheng H, Lu H, Zhang L, Wang C, Xie J.
 In Proceedings of  BIBM-19. San Diego, USA, 2019. (EI, CPCI-S, CCF-B)
 
-- MALP: A More Effective Meta-Paths Based Link Prediction Method in Partially Aligned Heterogeneous Social Networks [PDF].
+- MALP: A More Effective Meta-Paths Based Link Prediction Method in Partially Aligned Heterogeneous Social Networks <a href="" target="_blank" title="[PDF]">[PDF]</a>.
 Zhu K, Cao M, Lu H.
 In Proceedings of ICATI-19. Portland, USA, 2019. (EI, CPCI-S, CCF-C)
 
-- GADGET: Using Gated GRU for Biomedical Event Trigger Detection [PDF].
+- GADGET: Using Gated GRU for Biomedical Event Trigger Detection <a href="" target="_blank" title="[PDF]">[PDF]</a>.
 Zeng C, Zhang Y, Lu H, Wang C.
 In Proceedings of  IJCNN-19. Budapest, Hungary, 2019. (EI, CPCI-S, CCF-C)
 
-- Exploiting Global Semantic Similarity Biterms for Short-text Topic Discovery [PDF].
+- Exploiting Global Semantic Similarity Biterms for Short-text Topic Discovery <a href="" target="_blank" title="[PDF]">[PDF]</a>.
 Lu H, Ge G, Li Y, Wang C, Xie J.
 In Proceedings of  ICTAI-18. Volos. Greece, 2018: 975-982. (EI, CPCI-S, CCF-C)
 
-- Online Single Homogeneous Source Transfer Learning Based on AdaBoost [PDF]
+- Online Single Homogeneous Source Transfer Learning Based on AdaBoost <a href="" target="_blank" title="[PDF]">[PDF]</a>
 Du Y, Chen Q, Lu H, Wang C.
 In Proceedings of  ICTAI-18. Volos, Greece, 2018: 344-349. (EI, CPCI-S, CCF-C)
 
-- Constructing Pseudo Documents with Semantic Similarity for Short Text Topic Discovery [PDF].
+- Constructing Pseudo Documents with Semantic Similarity for Short Text Topic Discovery <a href="" target="_blank" title="[PDF]">[PDF]</a>.
 Lu H, Li Y, Tang C, Wang C, Xie J.
 In Proceedings of ICONIP-18. Siem Reap, Cambodia, 2018: 437-449. (EI, CPCI-S, CCF-C)
 
-- Topics may Evolve: Using Complaint Data for Analysis [PDF].
+- Topics may Evolve: Using Complaint Data for Analysis <a href="" target="_blank" title="[PDF]">[PDF]</a>.
 Xie L, Wang L, Lu H, Li N, Wang C.
 In Proceedings of ICTAI-17. Boston, USA, 2017: 1296-1303. (EI, CPCI-S, CCF-C)
 
-- Don't Forget the Quantifiable Relationship between Words: Using Recurrent Neural Network for Short Text Topic Discovery [PDF].
+- Don't Forget the Quantifiable Relationship between Words: Using Recurrent Neural Network for Short Text Topic Discovery <a href="" target="_blank" title="[PDF]">[PDF]</a>.
 Lu H, Xie L, Kang N, Wang C and Xie J.
 In Proceedings of AAAI-17. San Francisco, USA, 2017:1192-1198. (EI, CPCI-S, CCF-A)
 
-- Biterm Pseudo Document Topic Model for Short Text [PDF].
+- Biterm Pseudo Document Topic Model for Short Text <a href="" target="_blank" title="[PDF]">[PDF]</a>.
 Jiang L, Lu H, Xu M and Wang C.
 In Proceedings of ICTAI-16. San Jose, USA, 2016: 865-872. (EI, CPCI-S, CCF-C)
 
-- Never Ignore The Significance Of Different Anomalies: A Cost-sensitive Algorithm Based On Loss Function For Anomaly Detection [PDF].
+- Never Ignore The Significance Of Different Anomalies: A Cost-sensitive Algorithm Based On Loss Function For Anomaly Detection <a href="" target="_blank" title="[PDF]"></a>.
 Lu H, Chen F, Xu M, Wang C and Xie J.
 In Proceedings of ICTAI-15. Vietri Sul Mare, Italy, 2015: 1099-1105. (EI, CPCI-S, CCF-C)
 
 ## Journals
 
-- Advances and applications of machine learning and intelligent optimization algorithms in genome-scale metabolic network models [PDF].
+- Advances and applications of machine learning and intelligent optimization algorithms in genome-scale metabolic network models <a href="" target="_blank" title="[PDF]">[PDF]</a>.
 Bai L, You Q, Zhang C, Sun J, Liu L, Lu H, Chen Q.
 Systems Microbiology and Biomanufacturing, 2022.
 
-- High-utility itemsets mining based on binary particle swarm optimization with multiple adjustment strategies [Accept].
+- High-utility itemsets mining based on binary particle swarm optimization with multiple adjustment strategies <a href="" target="_blank" title="[]">[]</a>.
 Fang W, Zhang Q,  Lu H, Lin J.
 Applied Soft Computing, 2022. (SCI)
 
-- A deep neural networks-based fusion model for COVID-19 rumor detection from online social media [Accept][LINK].
+- A deep neural networks-based fusion model for COVID-19 rumor detection from online social media <a href="" target="_blank" title="[LINK]">[LINK]</a>.
 Lu H, Yang J, Fang W, Song X, Wang C.
 Data Technologies and Applications, 2022. (SCI)
 
-- 面向网络社交媒体的少样本新冠谣言检测 [Chinese Version].
+- 面向网络社交媒体的少样本新冠谣言检测 <a href="" target="_blank" title="[Chinese Version]">[Chinese Version]</a>.
 陆恒杨, 范晨悠 和 吴小俊.
 中文信息学报, 2022, 36(1): 135-144.
 
-- Learning transferable and discriminative features for unsupervised domain adaptation.
+- Learning transferable and discriminative features for unsupervised domain adaptation <a href="" target="_blank" title="[]">[]</a>.
 Du Y, Zhang R, Zhang X, Yao Y, Lu H, Wang C *.
 Intelligent Data Analysis, 2022, 26(2): 407-425.
 
-- One for “All”: A unified model for fine-grained sentiment analysis under three tasks [LINK][DATA].
+- One for “All”: A unified model for fine-grained sentiment analysis under three tasks <a href="" target="_blank" title="[LINK]">[LINK]</a><a href="" target="_blank" title="[DATA]">[DATA]</a>.
 Lu H, Yang J *, Hu C, Fang W.
 PeerJ Computer Science, 2021, 7: e816. (SCI)
 
-- A novel few-shot learning based multi-modality fusion model for COVID-19 rumor detection from online social media [LINK][CODE].
+- A novel few-shot learning based multi-modality fusion model for COVID-19 rumor detection from online social media <a href="" target="_blank" title="[LINK]">[LINK]</a><a href="" target="_blank" title="[CODE]">[CODE]</a>.
 Lu H *, Fan C, Song X, Fang W.
 PeerJ Computer Science, 2021, 7: e688. (SCI)
 
-- SenU-PTM: a novel phrase-based topic model for short-text topic discovery by exploiting word embeddings [PDF].
+- SenU-PTM: a novel phrase-based topic model for short-text topic discovery by exploiting word embeddings <a href="" target="_blank" title="[PDF]">[PDF]</a>.
 Lu H *, Zhang Y, Du Y.
 Data Technologies and Applications, 2021, 55(5): 643-660. (SCI)
 
-- Polysemy Needs Attention: Short-Text Topic Discovery With Global and Multi-Sense Information [PDF].
+- Polysemy Needs Attention: Short-Text Topic Discovery With Global and Multi-Sense Information <a href="" target="_blank" title="[PDF]">[PDF]</a>.
 Lu H *, Yang J, Zhang Y, Li Z.
 IEEE ACCESS, 2021, 9: 14918-14932. (EI, SCI)
 
-- What is Discussed about COVID-19: A Multi-Modal Framework for Analyzing Microblogs from Sina Weibo without Human Labeling [PDF].
+- What is Discussed about COVID-19: A Multi-Modal Framework for Analyzing Microblogs from Sina Weibo without Human Labeling <a href="" target="_blank" title="[PDF]">[PDF]</a>.
 Lu H *, Lou Y, Jin B, Xu M.
 CMC-Computers, Materials & Continua, 2020, 64(3): 1453-1471. (EI, SCI)
 
-- Multi-Entity Aspect-Based Sentiment Analysis with Context, Entity, Aspect Memory and Dependency Information [PDF].
+- Multi-Entity Aspect-Based Sentiment Analysis with Context, Entity, Aspect Memory and Dependency Information <a href="" target="_blank" title="[PDF]">[PDF]</a>.
 Yang J, Yang R, Lu H, Wang C, Xie J.
 Transactions on Asian and Low-Resource Language Information Processing, 2019, 18(4). (EI, SCI)
 
-- Utilizing Recurrent Neural Network for Topic Discovery in Short Text Scenarios [PDF].
+- Utilizing Recurrent Neural Network for Topic Discovery in Short Text Scenarios <a href="" target="_blank" title="[PDF]">[PDF]</a>.
 Lu H, Kang N, Li Y, Zhan Q, Xie J, Wang C *.
 Intelligent Data Analysis, 2019, 23(2): 259-277. (EI, SCI)
 
