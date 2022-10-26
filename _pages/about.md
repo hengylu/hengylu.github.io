@@ -21,7 +21,7 @@ Heng-yang Lu received his B.Sc. degree in the Department of Computer Science and
 
 Currently, he is the Associate Professor in the School of Artificial Intelligence and Computer Science at Jiangnan University, Wuxi, China. He is also a member of the Jiangsu Provincial Engineering Laboratory of Pattern Recognition and Computational Intelligence.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+His research interest includes Multi-modal Data Mining and Natural Language Processing, such as backdoor attack, cross-modal retrieval, few-shot learning, fine-grained sentimental analysis, short text mining in online social media, etc.
 
 
 # 🔥 News
