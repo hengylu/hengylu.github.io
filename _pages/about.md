@@ -15,7 +15,6 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-# About
 Heng-yang Lu received his B.Sc. degree in the Department of Computer Science and Technology of Nanjing University in June 2014. He was a Ph.D. candidate at IIP group in the Department of Computer Science and Technology at Nanjing University, led by professor Jun-Yuan Xie and Chong-Jun Wang. He received his Ph.D. degree in June 2019. He was also one of the members of the international branches of Hasso-Plattner-Institut from Germany (2016-2019). He started his postdoc in Jiangnan University from 2020, majoring multi-modal data analysis.
 
 Currently, he is the Associate Professor in the School of Artificial Intelligence and Computer Science at Jiangnan University, Wuxi, China. He is also a member of the Jiangsu Provincial Engineering Laboratory of Pattern Recognition and Computational Intelligence.
@@ -127,7 +126,7 @@ Transactions on Asian and Low-Resource Language Information Processing, 2019, 18
 Lu H, Kang N, Li Y, Zhan Q, Xie J, Wang C *.
 Intelligent Data Analysis, 2019, 23(2): 259-277. (EI, SCI)
 
-- 一种基于相关性特征融合的乳腺图像感兴趣区域检测方法 <a href="https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDLAST2016&filename=NJDZ201601022&uid=WEEvREdxOWJmbC9oM1NjYkZCbDdrdXdUVU15NmEzQUxJOGhUaE5uNkZHZDk=$R1yZ0H6jyaa0en3RxVUd8df-oHi7XMMDo7mtKT6mSmEvTuk11l2gFA!!&v=MTY3NzRxVHJXTTFGckNVUkxPZlp1WnBGeXprVUwzTkt5ZlBkTEc0SDlmTXJvOUhab1I4ZVgxTHV4WVM3RGgxVDM=" target="_blank" title="[Chinese Version]">[Chinese Version]</a>.
+- <a href="https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDLAST2016&filename=NJDZ201601022&uid=WEEvREdxOWJmbC9oM1NjYkZCbDdrdXdUVU15NmEzQUxJOGhUaE5uNkZHZDk=$R1yZ0H6jyaa0en3RxVUd8df-oHi7XMMDo7mtKT6mSmEvTuk11l2gFA!!&v=MTY3NzRxVHJXTTFGckNVUkxPZlp1WnBGeXprVUwzTkt5ZlBkTEc0SDlmTXJvOUhab1I4ZVgxTHV4WVM3RGgxVDM=" target="_blank" title="[Chinese Version]">一种基于相关性特征融合的乳腺图像感兴趣区域检测方法 </a>.
 陆恒杨, 李宁 * 和 谢俊元.
 南京大学学报（自然科学）, 2016, 52(1): 194-202. (CSCD)
 
