@@ -91,7 +91,7 @@ Applied Soft Computing, 2022, 124: 109073. (SCI)
 Data Technologies and Applications, 2022. (SCI)
 
 - [面向网络社交媒体的少样本新冠谣言检测](http://jcip.cipsc.org.cn/CN/abstract/abstract3255.shtml).
-**陆恒杨**, 范晨悠 和 吴小俊.
+**陆恒杨**, 范晨悠 * 和 吴小俊.
 中文信息学报, 2022, 36(1): 135-144.
 
 - [Learning transferable and discriminative features for unsupervised domain adaptation](https://content.iospress.com/articles/intelligent-data-analysis/ida215813).
