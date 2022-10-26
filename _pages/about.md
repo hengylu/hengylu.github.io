@@ -15,7 +15,6 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-<span class='anchor' id='about-me'></span>
 
 Heng-yang Lu received his B.Sc. degree in the Department of Computer Science and Technology of Nanjing University in June 2014. He was a Ph.D. candidate at IIP group in the Department of Computer Science and Technology at Nanjing University, led by professor Jun-Yuan Xie and Chong-Jun Wang. He received his Ph.D. degree in June 2019. He was also one of the members of the international branches of Hasso-Plattner-Institut from Germany (2016-2019). He started his postdoc in Jiangnan University from 2020, majoring multi-modal data analysis.
 
@@ -23,7 +22,6 @@ Currently, he is the Associate Professor in the School of Artificial Intelligenc
 
 His research interest includes Multi-modal Data Mining and Natural Language Processing, such as backdoor attack, cross-modal retrieval, few-shot learning, fine-grained sentimental analysis, short text mining in online social media, etc.
 
-<span class='anchor' id='news'></span>
 # 🔥 News
 - *2022.08*: &nbsp;🎉🎉 One paper of Heng-yang Lu has been accepted by COLING-22, RANK: CCF-B. 
 - *2022.08*: &nbsp;🎉🎉 One paper of Wei Nie has been accepted by PRICAI-22, RANK: CCF-C. 
