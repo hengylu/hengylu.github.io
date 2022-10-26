@@ -23,7 +23,7 @@ Currently, he is the Associate Professor in the School of Artificial Intelligenc
 
 His research interest includes Multi-modal Data Mining and Natural Language Processing, such as backdoor attack, cross-modal retrieval, few-shot learning, fine-grained sentimental analysis, short text mining in online social media, etc.
 
-<span class='anchor' id='news'></span>
+<span class='anchor' id='-news'></span>
 # 🔥 News
 - *2022.08*: &nbsp;🎉🎉 One paper of Heng-yang Lu has been accepted by COLING-22, RANK: CCF-B. 
 - *2022.08*: &nbsp;🎉🎉 One paper of Wei Nie has been accepted by PRICAI-22, RANK: CCF-C. 
