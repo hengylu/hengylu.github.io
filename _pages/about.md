@@ -31,10 +31,8 @@ His research interest includes Multi-modal Data Mining and Natural Language Proc
 
 # 📝 Publications 
 ## Conferences
-12. Where to Attack: A Dynamic Locator Model for Backdoor Attack in Text Classifications [Accepted]
-
+- Where to Attack: A Dynamic Locator Model for Backdoor Attack in Text Classifications [Accepted]
 Lu H, Fan C, Yang J, Hu C, Fang W, Wu X 
-
 In Proceedings of  COLING-22. Gyeongju, Republic of Korea, 2022. (CCF-B)
 
 11. Pay Attention to the "Tails": A Novel Aspect-Fusion Model for Long-Tailed Aspect Category Detection [Accepted]
