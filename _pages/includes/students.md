@@ -28,3 +28,7 @@
 - June, 2022: 翁诗浩（校优），刘雨萌，刘文昌，黄渊卓，余江明，邱国容，毕乾祥，何纪芃. 8名本科生通过答辩.
 - June, 2021: 满建涛，张达斌，张震，张辰，马樊城，姜彤. 6名本科生通过答辩.
 - June, 2020: 杨朔（校优），陈洋，石慧，张印奎，王鹏程. 5名本科生通过答辩.
+
+## Competitions
+
+- 2021, ICPC Regionals (Jinan Site), Bronze Medal. Zhu Wentao, Zhu Yu, Wang Lei, **Lu Hengyang** (coach).
