@@ -51,10 +51,8 @@ In Proceedings of ICATI-19. Portland, USA, 2019. (EI, CPCI-S, CCF-C)
 Zeng C, Zhang Y, Lu H, Wang C.
 In Proceedings of  IJCNN-19. Budapest, Hungary, 2019. (EI, CPCI-S, CCF-C)
 
-- Exploiting Global Semantic Similarity Biterms for Short-text Topic Discovery[PDF]
-
-Lu H, Ge G, Li Y, Wang C, Xie J
-
+- Exploiting Global Semantic Similarity Biterms for Short-text Topic Discovery[PDF].
+Lu H, Ge G, Li Y, Wang C, Xie J.
 In Proceedings of  ICTAI-18. Volos. Greece, 2018: 975-982. (EI, CPCI-S, CCF-C)
 
 - Online Single Homogeneous Source Transfer Learning Based on AdaBoost[PDF]
