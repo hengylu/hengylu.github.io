@@ -12,3 +12,6 @@ main:
   
   - title: "Students"
     url: "/#-students"
+    
+  - title: "Fundings"
+    url: "/#-fundings"
