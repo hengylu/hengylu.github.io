@@ -1,3 +1,0 @@
-# 🖥️ Competitions
-
-- 2021, ICPC Regionals (Jinan Site), Bronze Medal. Zhu Wentao, Zhu Yu, Wang Lei, **Lu Hengyang** (coach).
