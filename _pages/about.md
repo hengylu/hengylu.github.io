@@ -15,8 +15,7 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-# About
-
+# 🔥 About
 Heng-yang Lu received his B.Sc. degree in the Department of Computer Science and Technology of Nanjing University in June 2014. He was a Ph.D. candidate at IIP group in the Department of Computer Science and Technology at Nanjing University, led by professor Jun-Yuan Xie and Chong-Jun Wang. He received his Ph.D. degree in June 2019. He was also one of the members of the international branches of Hasso-Plattner-Institut from Germany (2016-2019). He started his postdoc in Jiangnan University from 2020, majoring multi-modal data analysis.
 
 Currently, he is the Associate Professor in the School of Artificial Intelligence and Computer Science at Jiangnan University, Wuxi, China. He is also a member of the Jiangsu Provincial Engineering Laboratory of Pattern Recognition and Computational Intelligence.
