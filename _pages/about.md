@@ -124,7 +124,7 @@ CMC-Computers, Materials & Continua, 2020, 64(3): 1453-1471. (EI, SCI)
 Yang J, Yang R, Lu H, Wang C, Xie J.
 Transactions on Asian and Low-Resource Language Information Processing, 2019, 18(4). (EI, SCI)
 
-- Utilizing Recurrent Neural Network for Topic Discovery in Short Text Scenarios <a href="" target="_blank" title="[PDF]">[PDF]</a>.
+- Utilizing Recurrent Neural Network for Topic Discovery in Short Text Scenarios <a href="https://content.iospress.com/download/intelligent-data-analysis/ida183842?id=intelligent-data-analysis/ida183842" target="_blank" title="[PDF]">[PDF]</a>.
 Lu H, Kang N, Li Y, Zhan Q, Xie J, Wang C *.
 Intelligent Data Analysis, 2019, 23(2): 259-277. (EI, SCI)
 
