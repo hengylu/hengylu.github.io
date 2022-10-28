@@ -1,6 +1,6 @@
 # 📝 Publications 
 ## Conferences
-- [Where to Attack: A Dynamic Locator Model for Backdoor Attack in Text Classifications](https://aclanthology.org/2022.coling-1.82/).
+- [Where to Attack: A Dynamic Locator Model for Backdoor Attack in Text Classifications](https://aclanthology.org/2022.coling-1.82/) [CODE](https://github.com/jncsnlp/locatormodel).
 **Lu H**, Fan C, Yang J, Hu C, Fang W, Wu X.
 In Proceedings of  COLING-22. Gyeongju, Republic of Korea, 2022: 948-993. (CCF-B)
 
@@ -65,6 +65,10 @@ Data Technologies and Applications, 2022. (SCI)
 - [面向网络社交媒体的少样本新冠谣言检测](http://jcip.cipsc.org.cn/CN/abstract/abstract3255.shtml).
 **陆恒杨**, 范晨悠 * 和 吴小俊.
 中文信息学报, 2022, 36(1): 135-144.
+
+- [LAMB: A novel algorithm of label collaboration based multi-label learning](https://content.iospress.com/download/intelligent-data-analysis/ida215946?id=intelligent-data-analysis/ida215946).
+Zhang Y, Zhang Z, Chen M, **Lu H**, Zhang L, Wang C   
+Intelligent Data Analysis, 2022, 26(5): 1229-1245.
 
 - [Learning transferable and discriminative features for unsupervised domain adaptation](https://content.iospress.com/articles/intelligent-data-analysis/ida215813).
 Du Y, Zhang R, Zhang X, Yao Y, **Lu H**, Wang C *.
