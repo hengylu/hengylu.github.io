@@ -1,6 +1,6 @@
 # 📝 Publications 
 ## Conferences
-- [Where to Attack: A Dynamic Locator Model for Backdoor Attack in Text Classifications](https://aclanthology.org/2022.coling-1.82/). [[CODE]](https://github.com/jncsnlp/locatormodel).
+- [Where to Attack: A Dynamic Locator Model for Backdoor Attack in Text Classifications](https://aclanthology.org/2022.coling-1.82/). [[CODE](https://github.com/jncsnlp/locatormodel)].
 **Lu H**, Fan C, Yang J, Hu C, Fang W, Wu X.
 In Proceedings of  COLING-22. Gyeongju, Republic of Korea, 2022: 948-993. (CCF-B)
 
@@ -74,11 +74,11 @@ Intelligent Data Analysis, 2022, 26(5): 1229-1245.
 Du Y, Zhang R, Zhang X, Yao Y, **Lu H**, Wang C *.
 Intelligent Data Analysis, 2022, 26(2): 407-425.
 
-- [One for “All”: A unified model for fine-grained sentiment analysis under three tasks](https://peerj.com/articles/cs-816/) [DATA](https://github.com/jncsnlp/MEABSA).
+- [One for “All”: A unified model for fine-grained sentiment analysis under three tasks](https://peerj.com/articles/cs-816/). [[DATA](https://github.com/jncsnlp/MEABSA)].
 **Lu H**, Yang J *, Hu C, Fang W.
 PeerJ Computer Science, 2021, 7: e816. (SCI)
 
-- [A novel few-shot learning based multi-modality fusion model for COVID-19 rumor detection from online social media](https://peerj.com/articles/cs-688/) [CODE](https://github.com/jncsnlp/FSL-Multimodal-Rumor-Detection).
+- [A novel few-shot learning based multi-modality fusion model for COVID-19 rumor detection from online social media](https://peerj.com/articles/cs-688/). [[CODE](https://github.com/jncsnlp/FSL-Multimodal-Rumor-Detection)].
 **Lu H** *, Fan C, Song X, Fang W.
 PeerJ Computer Science, 2021, 7: e688. (SCI)
 
