@@ -1,6 +1,6 @@
 # 📝 Publications 
 ## Conferences
-- [Where to Attack: A Dynamic Locator Model for Backdoor Attack in Text Classifications](https://aclanthology.org/2022.coling-1.82/) [CODE](https://github.com/jncsnlp/locatormodel).
+- [Where to Attack: A Dynamic Locator Model for Backdoor Attack in Text Classifications](https://aclanthology.org/2022.coling-1.82/). [CODE](https://github.com/jncsnlp/locatormodel).
 **Lu H**, Fan C, Yang J, Hu C, Fang W, Wu X.
 In Proceedings of  COLING-22. Gyeongju, Republic of Korea, 2022: 948-993. (CCF-B)
 
