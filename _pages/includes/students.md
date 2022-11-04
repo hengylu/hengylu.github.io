@@ -31,4 +31,5 @@
 
 ## Competitions
 
+- 2022, 第十届全国大学生数字媒体科技作品及创意竞赛全国总决赛, 三等奖. 谭懿唯, 韩茜, 李子睿, 张之涵, 李鑫然, **陆恒杨**(指导教师), 代成龙
 - 2021, ICPC Regionals (Jinan Site), Bronze Medal. Zhu Wentao, Zhu Yu, Wang Lei, **Lu Hengyang** (coach).
