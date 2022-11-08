@@ -105,3 +105,6 @@ Intelligent Data Analysis, 2019, 23(2): 259-277. (EI, SCI)
 - [一种基于相关性特征融合的乳腺图像感兴趣区域检测方法](https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDLAST2016&filename=NJDZ201601022&uid=WEEvREdxOWJmbC9oM1NjYkZCbDdrdXdUVU15NmEzQUxJOGhUaE5uNkZHZDk=$R1yZ0H6jyaa0en3RxVUd8df-oHi7XMMDo7mtKT6mSmEvTuk11l2gFA!!&v=MTY3NzRxVHJXTTFGckNVUkxPZlp1WnBGeXprVUwzTkt5ZlBkTEc0SDlmTXJvOUhab1I4ZVgxTHV4WVM3RGgxVDM=).
 **陆恒杨**, 李宁 * 和 谢俊元.
 南京大学学报（自然科学）, 2016, 52(1): 194-202. (CSCD)
+
+## Patents
+- 一种文本分类后门攻击方法、系统及设备，**陆恒杨**，周俊康，胡聪，方伟，吴小俊，ZL202210233023.1
