@@ -4,7 +4,7 @@
 **Lu H**, Fan C, Yang J, Hu C, Fang W, Wu X.
 In Proceedings of  COLING-22. Gyeongju, Republic of Korea, 2022: 948-993. (CCF-B)
 
-- [Pay Attention to the "Tails": A Novel Aspect-Fusion Model for Long-Tailed Aspect Category Detection]().
+- [Pay Attention to the "Tails": A Novel Aspect-Fusion Model for Long-Tailed Aspect Category Detection](https://link.springer.com/chapter/10.1007/978-3-031-20865-2_24).
 Nie W, **Lu H**, Fang W.
 In Proceedings of  PRICAI-22. Shanghai, China, 2022. (CCF-C)
 
@@ -107,4 +107,6 @@ Intelligent Data Analysis, 2019, 23(2): 259-277. (EI, SCI)
 南京大学学报（自然科学）, 2016, 52(1): 194-202. (CSCD)
 
 ## Patents
+- 文本中多义性单词的标注方法、设备、处理器和存储介质 ，**陆恒杨**，黄渊卓，方伟
+- 基于元学习及深度学习的少样本社交媒体谣言检测方法，**陆恒杨**，范晨悠，杨舜，吴小俊
 - 一种文本分类后门攻击方法、系统及设备，**陆恒杨**，周俊康，胡聪，方伟，吴小俊，ZL202210233023.1
