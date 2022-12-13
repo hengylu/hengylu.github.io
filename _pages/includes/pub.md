@@ -60,7 +60,7 @@ Applied Soft Computing, 2022, 124: 109073. (SCI)
 
 - [A deep neural networks-based fusion model for COVID-19 rumor detection from online social media](https://www.emerald.com/insight/content/doi/10.1108/DTA-06-2021-0160/full/html).
 **Lu H**, Yang J, Fang W, Song X, Wang C.
-Data Technologies and Applications, 2022. (SCI)
+Data Technologies and Applications, 2022, 56(5): 806-824. (SCI)
 
 - [面向网络社交媒体的少样本新冠谣言检测](http://jcip.cipsc.org.cn/CN/abstract/abstract3255.shtml).
 **陆恒杨**, 范晨悠 * 和 吴小俊.
