@@ -50,6 +50,14 @@ In Proceedings of ICTAI-15. Vietri Sul Mare, Italy, 2015: 1099-1105. (EI, CPCI-S
 
 ## Journals
 
+- [Think More Ambiguity Less: A Novel Dual Interactive Model with Local and Global Semantics for Chinese NER]().
+Jia Y, Fang W, **Lu H**.
+Transactions on Asian and Low-Resource Language Information Processing, 2023.
+
+- [基于提示调优的中文上位词发现]().
+周俊康, **陆恒杨**, 刘哲 和 方伟.
+中文信息学报, 2023.
+
 - [Advances and applications of machine learning and intelligent optimization algorithms in genome-scale metabolic network models](https://link.springer.com/content/pdf/10.1007/s43393-022-00115-6.pdf).
 Bai L, You Q, Zhang C, Sun J, Liu L, **Lu H**, Chen Q.
 Systems Microbiology and Biomanufacturing, 2022.
