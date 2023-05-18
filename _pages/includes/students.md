@@ -30,6 +30,6 @@
 - June, 2020: 杨朔（校优），陈洋，石慧，张印奎，王鹏程. 5名本科生通过答辩.
 
 ## Competitions
-
+- 2023, 第十四届蓝桥杯全国软件和信息技术专业人才大赛江苏赛区Python程序设计研究生组，二等奖. 赵雅苹，**陆恒杨**(指导老师)
 - 2022, 第十届全国大学生数字媒体科技作品及创意竞赛全国总决赛, 三等奖. 谭懿唯, 韩茜, 李子睿, 张之涵, 李鑫然, **陆恒杨**(指导教师), 代成龙
 - 2021, ICPC Regionals (Jinan Site), Bronze Medal. Zhu Wentao, Zhu Yu, Wang Lei, **Lu Hengyang** (coach).
