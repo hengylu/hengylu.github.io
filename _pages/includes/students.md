@@ -19,6 +19,10 @@
 
 ## Undergraduate
 
+### 2019
+
+Jiayin Wei 位佳茵 (东南大学 保研)
+
 ### 2018
 
 - Wenchang Liu 刘文昌 (东南大学 读研)，Yuanzhuo Huang 黄渊卓，Yumeng Liu 刘雨萌 (苏州大学 读研)，Shihao Weng 翁诗浩 (南京大学 读研)
