@@ -50,6 +50,10 @@ In Proceedings of ICTAI-15. Vietri Sul Mare, Italy, 2015: 1099-1105. (EI, CPCI-S
 
 ## Journals
 
+- [结合扩散模型图像编辑的图文检索后门攻击]().
+杨舜, **陆恒杨**
+计算机科学与探索, 2023.
+
 - [Think More Ambiguity Less: A Novel Dual Interactive Model with Local and Global Semantics for Chinese NER]().
 Jia Y, Fang W, **Lu H**.
 Transactions on Asian and Low-Resource Language Information Processing, 2023.
