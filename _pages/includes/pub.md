@@ -1,8 +1,12 @@
 # 📝 Publications 
 ## Conferences
+- [A Novel Differentiable Rank Learning Method Towards Stock Movement Quantile Forecasting]().
+Fan C, **Lu H**, Huang A.
+In Proceedings of ECAI-23. Kraków, Poland, 2023. (CCF-B)
+
 - [Where to Attack: A Dynamic Locator Model for Backdoor Attack in Text Classifications](https://aclanthology.org/2022.coling-1.82/). [[CODE](https://github.com/jncsnlp/locatormodel)].
 **Lu H**, Fan C, Yang J, Hu C, Fang W, Wu X.
-In Proceedings of  COLING-22. Gyeongju, Republic of Korea, 2022: 948-993. (CCF-B)
+In Proceedings of COLING-22. Gyeongju, Republic of Korea, 2022: 948-993. (CCF-B)
 
 - [Pay Attention to the "Tails": A Novel Aspect-Fusion Model for Long-Tailed Aspect Category Detection](https://link.springer.com/chapter/10.1007/978-3-031-20865-2_24).
 Nie W, **Lu H**, Fang W.
