@@ -54,9 +54,9 @@ In Proceedings of ICTAI-15. Vietri Sul Mare, Italy, 2015: 1099-1105. (EI, CPCI-S
 杨舜, **陆恒杨**
 计算机科学与探索, 2023.
 
-- [Think More Ambiguity Less: A Novel Dual Interactive Model with Local and Global Semantics for Chinese NER]().
+- [Think More Ambiguity Less: A Novel Dual Interactive Model with Local and Global Semantics for Chinese NER](https://dl.acm.org/doi/10.1145/3583685).
 Jia Y, Fang W, **Lu H**.
-Transactions on Asian and Low-Resource Language Information Processing, 2023.
+Transactions on Asian and Low-Resource Language Information Processing, 2023, 22(6): 1-21.
 
 - [基于提示调优的中文上位词发现]().
 周俊康, **陆恒杨**, 刘哲 和 方伟.
