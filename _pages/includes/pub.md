@@ -1,5 +1,9 @@
 # 📝 Publications 
 ## Conferences
+- [JN666 at SemEval-2024 Task 7: NumEval: Numeral-Aware Language Understanding and Generation](https://aclanthology.org/2024.semeval-1.76/).
+Liu X, Liu X, **Lu H**.
+In Proceedings of SemEval-24. Mexico City, Mexico, 2024: 497-502.
+
 - [A Novel Differentiable Rank Learning Method Towards Stock Movement Quantile Forecasting]().
 Fan C, **Lu H**, Huang A.
 In Proceedings of ECAI-23. Kraków, Poland, 2023. (CCF-B)
@@ -53,14 +57,21 @@ In Proceedings of ICTAI-16. San Jose, USA, 2016: 865-872. (EI, CPCI-S, CCF-C)
 In Proceedings of ICTAI-15. Vietri Sul Mare, Italy, 2015: 1099-1105. (EI, CPCI-S, CCF-C)
 
 ## Journals
+- GPU-Based Efficient Parallel Heuristic Algorithm for High-Utility Itemset Mining in Large Transaction Datasets](https://ieeexplore.ieee.org/document/10167780/).
+Fang W, Jiang H, **Lu H**, Sun J, Wu X, Lin J.
+IEEE Transactions on Knowledge and Data Engineering, 2024, 36(2): 652-667. (SCI, CCF A)
 
-- [结合扩散模型图像编辑的图文检索后门攻击]().
+- [结合扩散模型图像编辑的图文检索后门攻击](https://kns.cnki.net/kcms2/article/abstract?v=pVWNQl4Rae8OMnl-rXR7TKoYBjXKDfb1r6qSfdsYNPE_6ckW7itFWWN1oljlilRKQedXCNxmY-sFAedKCn2qI3knnljm1xewoBLTECx1gaMPuKjo1nosSfpxs0irRjKlxAKk-Jfit5RbMEsbTOdnHhrjD-rouHt6ytK2p5QEbvd_MzL2i8_pksXlC6PXj-u_&uniplatform=NZKPT&language=CHS).
 杨舜, **陆恒杨**
-计算机科学与探索, 2023.
+计算机科学与探索, 2024, 18(04): 1068-1082.
+
+- Mutual Information-Guided GA for Bayesian Network Structure Learning](https://ieeexplore.ieee.org/abstract/document/9940608).
+Yan K, Fang W, **Lu H**, Zhang X, Sun J, Wu X.
+IEEE Transactions on Knowledge and Data Engineering, 2023, 35(8): 8282-8299. (SCI, CCF A)
 
 - [Think More Ambiguity Less: A Novel Dual Interactive Model with Local and Global Semantics for Chinese NER](https://dl.acm.org/doi/10.1145/3583685).
 Jia Y, Fang W, **Lu H**.
-Transactions on Asian and Low-Resource Language Information Processing, 2023, 22(6): 1-21.
+ACM Transactions on Asian and Low-Resource Language Information Processing, 2023, 22(6): 1-21.
 
 - [基于提示调优的中文上位词发现]().
 周俊康, **陆恒杨**, 刘哲 和 方伟.
@@ -112,7 +123,7 @@ CMC-Computers, Materials & Continua, 2020, 64(3): 1453-1471. (EI, SCI)
 
 - [Multi-Entity Aspect-Based Sentiment Analysis with Context, Entity, Aspect Memory and Dependency Information](http://delivery.acm.org/10.1145/3330000/3321125/a47-yang.pdf?ip=202.119.43.169&id=3321125&acc=ACTIVE%20SERVICE&key=BF85BBA5741FDC6E.180A41DAF8736F97.4D4702B0C3E38B35.4D4702B0C3E38B35&__acm__=1558587505_d17bf4245aab407c265d114347e5187b).
 Yang J, Yang R, **Lu H**, Wang C, Xie J.
-Transactions on Asian and Low-Resource Language Information Processing, 2019, 18(4). (EI, SCI)
+ACM Transactions on Asian and Low-Resource Language Information Processing, 2019, 18(4). (EI, SCI)
 
 - [Utilizing Recurrent Neural Network for Topic Discovery in Short Text Scenarios](https://content.iospress.com/download/intelligent-data-analysis/ida183842?id=intelligent-data-analysis/ida183842).
 **Lu H**, Kang N, Li Y, Zhan Q, Xie J, Wang C *.
@@ -123,7 +134,10 @@ Intelligent Data Analysis, 2019, 23(2): 259-277. (EI, SCI)
 南京大学学报（自然科学）, 2016, 52(1): 194-202. (CSCD)
 
 ## Patents
-- 一种基于扩散模型的图文检索后门攻击方法、装置及设备，陆恒杨，杨舜，方伟，孙俊，吴小俊，
+- 一种中文上位词检索方法及装置，**陆恒杨**，周俊康，刘哲，方伟，孙俊，吴小俊，ZL202310214059.X
+- 一种长尾分布场景下的方面类别识别方法及系统，**陆恒杨**，方伟，聂玮，孙俊，吴小俊，ZL202111681644.8
+- TEXT CLASSIFICATION BACKDOOR ATTACK PREDICTION METHOD, SYSTEM, AND DEVICE，**Hengyang Lu**，Chenyou Fan，Wei Fang，Jun Sun，Xiaojun Wu，US011829474B1
+- 一种基于扩散模型的图文检索后门攻击方法、装置及设备，**陆恒杨**，杨舜，方伟，孙俊，吴小俊，ZL202310821656.9
 - 文本中多义性单词的标注方法、设备、处理器和存储介质 ，**陆恒杨**，黄渊卓，方伟，ZL202110270079.X
 - 基于元学习及深度学习的少样本社交媒体谣言检测方法，**陆恒杨**，范晨悠，杨舜，吴小俊，ZL202110770088.5
 - 一种文本分类后门攻击方法、系统及设备，**陆恒杨**，周俊康，胡聪，方伟，吴小俊，ZL202210233023.1
