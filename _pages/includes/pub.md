@@ -57,7 +57,7 @@ In Proceedings of ICTAI-16. San Jose, USA, 2016: 865-872. (EI, CPCI-S, CCF-C)
 In Proceedings of ICTAI-15. Vietri Sul Mare, Italy, 2015: 1099-1105. (EI, CPCI-S, CCF-C)
 
 ## Journals
-- GPU-Based Efficient Parallel Heuristic Algorithm for High-Utility Itemset Mining in Large Transaction Datasets](https://ieeexplore.ieee.org/document/10167780/).
+- [GPU-Based Efficient Parallel Heuristic Algorithm for High-Utility Itemset Mining in Large Transaction Datasets](https://ieeexplore.ieee.org/document/10167780/).
 Fang W, Jiang H, **Lu H**, Sun J, Wu X, Lin J.
 IEEE Transactions on Knowledge and Data Engineering, 2024, 36(2): 652-667. (SCI, CCF A)
 
