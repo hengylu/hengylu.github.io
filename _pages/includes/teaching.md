@@ -1,7 +1,7 @@
 # 📖 Teaching
 - Principle of Compiler. (for undergraduate students of CS Dept. Fall, 2019-2021, Spring, 2023, 2024)
 - Course Design of Principle of Compiler. (for undergraduate students of CS Dept. Summer, 2023, 2024)
-- Natural Language Processing. (for undergraduate students of CS Dept. Fall, 2023)
+- Natural Language Processing. (for undergraduate students of CS Dept. Fall, 2023, 2024)
 - Computer Ethics. (for undergraduate students of CS Dept. Spring, 2022, 2023, 2024)
 - Frontier Course in Computer Science. (for undergraduate students of CS Dept. Fall, 2023)
 - Machine Learning. (for undergraduate students of CS Dept. Fall, 2022)
