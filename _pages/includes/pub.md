@@ -1,5 +1,17 @@
 # 📝 Publications 
 ## Conferences
+- [TeMME: Temporal Knowledge Graph Completion using Multi-grade Multivector Embeddings](https://link.springer.com/chapter/10.1007/978-981-96-0125-7_26).
+**Lu H**, Yu H, Fan C, Zhan Q, Fang W, Wu X.
+In Proceedings of PRICAI-24. Kyoto, Japan, 2024. (CCF-C)
+
+- [A Novel MLLMs-based Two-stage Model for Zero-shot Multimodal Sentiment Analysis](https://link.springer.com/chapter/10.1007/978-981-96-0119-6_41#citeas).
+**Lu H**, Li X.
+In Proceedings of PRICAI-24. Kyoto, Japan, 2024. (CCF-C)
+
+- [JN-NLP at SIGHAN-2024 dimABSA Task: Extraction of Sentiment Intensity Quadruples Based on Paraphrase Generation](https://aclanthology.org/2024.sighan-1.14/).
+Jiang Y, Liu T, **Lu H**.
+In Proceedings of SIGHAN-10. Bangkok, Thailand, 2024: 121-126.
+
 - [JN666 at SemEval-2024 Task 7: NumEval: Numeral-Aware Language Understanding and Generation](https://aclanthology.org/2024.semeval-1.76/).
 Liu X, Liu X, **Lu H**.
 In Proceedings of SemEval-24. Mexico City, Mexico, 2024: 497-502.
@@ -57,6 +69,14 @@ In Proceedings of ICTAI-16. San Jose, USA, 2016: 865-872. (EI, CPCI-S, CCF-C)
 In Proceedings of ICTAI-15. Vietri Sul Mare, Italy, 2015: 1099-1105. (EI, CPCI-S, CCF-C)
 
 ## Journals
+- [QAIE: LLM-based Quantity Augmentation and Information Enhancement for Few-Shot Aspect-Based Sentiment Analysis](https://www.sciencedirect.com/science/article/pii/S0306457324002760?dgcid=author).
+**Lu H**, Liu T, Cong R, Yang J, Gan Q, Fang W, Wu X.
+Information Processing and Management, 2025, 62(1), 103917. (SCI, CCF B)
+
+- [A machine learning model based on CHAT-23 for early screening of autism in Chinese children](https://www.frontiersin.org/journals/pediatrics/articles/10.3389/fped.2024.1400110/full?utm_source=Email_to_authors_&utm_medium=Email&utm_content=T1_11.5e1_author&utm_campaign=Email_publication&field&journalName=Frontiers_in_Pediatrics&id=1400110).
+**Lu H**, Zhang H, Zhong Y, Meng X, Zhang M, Qiu T.
+Frontiers in Pediatrics, 2024, 12. (SCI)
+
 - [GPU-Based Efficient Parallel Heuristic Algorithm for High-Utility Itemset Mining in Large Transaction Datasets](https://ieeexplore.ieee.org/document/10167780/).
 Fang W, Jiang H, **Lu H**, Sun J, Wu X, Lin J.
 IEEE Transactions on Knowledge and Data Engineering, 2024, 36(2): 652-667. (SCI, CCF A)
